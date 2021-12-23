@@ -26,7 +26,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 10.01.2021   | Introducción <br/>
+  01       | 10.01.2022   | Introducción <br/>
 
 
 
