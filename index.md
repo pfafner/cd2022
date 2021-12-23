@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Warning_icon.svg/420px-Warning_icon.svg.png "") *Site on Construction!*
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Warning_icon.svg/420px-Warning_icon.svg.png "" width="100") *Site on Construction!*
 
 # Introducción a la Ciencia de Datos 2022
 
