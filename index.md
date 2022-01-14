@@ -24,7 +24,9 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 12.01.2022   | Introducción <br/>
+  01       | 10.01.2022   | Introducción <br/>                                                  |
+  02       | 12.01.2022   | Repaso de probabilidad I: espacios de probabilidad. <br/>           | 
+  
 
 
 
