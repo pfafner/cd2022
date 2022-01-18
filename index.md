@@ -24,8 +24,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 10.01.2022   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}    |
-  02       | 12.01.2022   | Repaso de probabilidad I: espacios de probabilidad. <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"} | 
+  01       | 10.01.2022   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}    | [(I. Carmichael, J.S. Marron) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"}
+  02       | 12.01.2022   | Repaso de probabilidad I: espacios de probabilidad. <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"} | Ver Cap 1. K.-L. Chung.
   03       | 17.01.2022   | Probabilidad condicional <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"} |
 
  **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
@@ -59,6 +59,10 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 * [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](http://library.lol/main/8ECFEEB2E1F9A19C770FBA1FF85FA566){:target="_blank"}
 
 ### Referencias adicionales:
+
+* [K.-L. Chung (2000). *A Course in Probability Theory*](http://library.lol/main/6B122D4F68618DB5F1893F0296CB2491){:target="_blank"}
+
+* [M. Lefebvre (2011). *Basic Probability with Applications*](http://library.lol/main/F3B9314CA31E0289D5FCD6EEDA01308A){:target="_blank"}
 
 * [G. James, D. Witten, T. Hastie, R. Tibshirani (2008). *An Introduction to Statistical Learning with Applications in R*.](http://library.lol/main/1E48B8220FEE4CD9D192F4ED5020F2DA){:target="_blank"}
 
