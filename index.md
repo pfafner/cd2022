@@ -25,14 +25,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   01       | 10.01.2022   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}    | [(I. Carmichael, J.S. Marron) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"}
-  02       | 12.01.2022   | Repaso de probabilidad I: espacios de probabilidad. <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"} | Ver Cap 1. K.-L. Chung.
-  03       | 17.01.2022   | Probabilidad condicional <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"} |
-
- **No.**  | **Fecha**    | **Tópicos**                                                         | **Actividades**
-  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 11.01.2021   | Introducción <br/> [Aula 01](aulas/aula01.pdf){:target="_blank"}    | [(I. Carmichael, J.S. Marron) Data Science vs. Statistics: Two Cultures?](lecturas/carmichael_marron.pdf){:target="_blank"} 
-  02       | 14.01.2021   | Probabilidad <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"}    | [(K.-L. Chung) A Course in Probability Theory](http://library.lol/main/6B122D4F68618DB5F1893F0296CB2491){:target="_blank"}  
-  03       | 18.01.2021   | Proba. condicional <br/> Variables aleatorias <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"}  | Lefebvre, capítulo 2, pp. 27--54. <br/> [(M. Lefebvre) Basic Probability with Applications](http://library.lol/main/F3B9314CA31E0289D5FCD6EEDA01308A){:target="_blank"}
+  02       | 12.01.2022   | Repaso de probabilidad I: espacios de probabilidad. <br/> [Aula 02](aulas/aula02.pdf){:target="_blank"} | Ver Chung, Capítulo 1.
+  03       | 17.01.2022   | Probabilidad condicional <br/> [Aula 03](aulas/aula03.pdf){:target="_blank"} | Ver Lefebvre, capítulo 2, pp. 27--54.
 
 
 # Material sobre Python (textos, videos)
