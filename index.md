@@ -29,6 +29,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   03       | 17.01.2022   | Probabilidad condicional <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Ver Lefebvre, capítulo 2, pp. 27--5  44
   04       | 19.01.2022   | Ley de probabilidad total. Regla de Bayes. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Ver Lefebvre, capítulo 2, pp. 27--54.
   05       | 24.01.2022   | Repaso de probabilidad II: variables aleatorias. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
+  06       | 26.01.2022   | Independencia de v.a. Resúmenes de distribuciones. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 
 
 # Material sobre Python (textos, videos)
