@@ -33,6 +33,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L1       | 29.01.2022   |                                                                     | **[Lista de ejercicios 1](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Sábado 12 de febrero.**
   07       | 31.01.2022   | Esperanza condicional. Covarianza y correlación. Entropía. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | 
   08       | 02.02.2022   | Distribuciones Discretas. Resúmenes para distribuciones continuas. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
+  09       | 07.02.2022   |                                                                      | 
 
 
 # Material sobre Python (textos, videos)
