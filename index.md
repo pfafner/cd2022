@@ -34,6 +34,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   07       | 31.01.2022   | Esperanza condicional. Covarianza y correlación. Entropía. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | 
   08       | 02.02.2022   | Distribuciones Discretas. Resúmenes para distribuciones continuas. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
   09       | 02.02.2022   | Distribuciones Continuas. Distribuciones multivariadas. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
+  L2       | 07.02.2022   |                                                                     | 
+09       | 02.02.2022   | Distribuciones Continuas. Distribuciones multivariadas. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
 
 
 # Material sobre Python (textos, videos)
