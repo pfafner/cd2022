@@ -35,7 +35,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   08       | 02.02.2022   | Distribuciones Discretas. Resúmenes para distribuciones continuas. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
   09       | 02.02.2022   | Distribuciones Continuas. Distribuciones multivariadas. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
   L2       | 07.02.2022   |                                                                     | 
-09       | 02.02.2022   | Distribuciones Continuas. Distribuciones multivariadas. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
+  10       | 07.02.2022   | Análisis de Componentes Principales (PCA). <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | 
 
 
 # Material sobre Python (textos, videos)
