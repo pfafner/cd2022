@@ -28,8 +28,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   02       | 12.01.2022   | Repaso de probabilidad I: espacios de probabilidad. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Ver Chung, Capítulo 1.
   03       | 17.01.2022   | Probabilidad condicional <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Ver Lefebvre, capítulo 2, pp. 27--5  44
   04       | 19.01.2022   | Ley de probabilidad total. Regla de Bayes. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Lefebvre, capítulo 2, pp. 27--54.
-  05       | 24.01.2022   | Repaso de probabilidad II: variables aleatorias. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Lefebvre, sección 3.1, pp. 55–60
-  06       | 26.01.2022   | Independencia de v.a. Resúmenes de distribuciones. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
+  05       | 24.01.2022   | Repaso de probabilidad II: variables aleatorias. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Lefebvre, sección 3.1, pp. 55–60.
+  06       | 26.01.2022   | Independencia de v.a. Resúmenes de distribuciones. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Lefebvre, sección 3.2, pp. 61–69.
   L1       | 29.01.2022   |                                                                     | **[Lista de ejercicios 1](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Sábado 12 de febrero.**
   07       | 31.01.2022   | Esperanza condicional. Covarianza y correlación. Entropía. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | 
   08       | 02.02.2022   | Distribuciones Discretas. Resúmenes para distribuciones continuas. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
