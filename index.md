@@ -47,7 +47,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   00       | 02.02.2022   | Instalación de librerías y ambiente de trabajo Python Anaconda, Jupyter-lab.  | [Anaconda+Tensorflow+Jupyter installation guide](otros/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> *Archivos auxiliares:* [plotmatrix.py](otros/plotmatrix.py){:target="_blank"} [test.ipynb](otros/test.ipynb){:target="_blank"}
   01       | 07.02.2022   | Ejemplo de exploración de datos.                                    | [iris.ipynb](code/iris.ipynb){:target="_blank"}
-  02       | 14.02.2022   | Lectura archivo csv. Exploración de datos. Estandarización. Descomposición SVD. Análisis de componentes principales. | [pca.ipynb](code/pca.ipynb){:target="_blank"} <br/> [pca_R.ipynb](code/pca_R.ipynb){:target="_blank"} <br/> [deport.csv](code/deport.csv){:target="_blank"}
+  02       | 14.02.2022   | Lectura archivo csv. Exploración de datos. Estandarización. Descomposición SVD. Análisis de componentes principales. | [pca.ipynb](code/pca.ipynb){:target="_blank"} <br/> [deport.csv](code/deport.csv){:target="_blank"}
 
 
 
