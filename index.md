@@ -37,7 +37,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L2       | 07.02.2022   |                                                                     | 
   10       | 07.02.2022   | Análisis de Componentes Principales (PCA). <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Duda y Hart, sección 10.13.1, pp. 568-.
   11       | 09.02.2022   | PCA vs. Teorema Espectral y descomposición SVD. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} [Aula 11 notas](aulas/Aula11_notas.pdf){:target="_blank"} | Hastie, Tibshirani, Friedman, sección 14.5.
-  12       | 09.02.2022   | Proyección PCA. Ejemplos. <br/> [Aula 12 notas](aulas/Aula12_notas.pdf){:target="_blank"} | 
+  12       | 14.02.2022   | Proyección PCA. Ejemplos. <br/> [Aula 12 notas](aulas/Aula12_notas.pdf){:target="_blank"} | 
   13       | 16.02.2022   | Interpretación PCA <br/>                                            |
   
   
