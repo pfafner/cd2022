@@ -40,7 +40,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   12       | 14.02.2022   | Proyección PCA. Ejemplos. <br/> [Aula 12 notas](aulas/Aula12_notas.pdf){:target="_blank"} | 
   13       | 16.02.2022   | Interpretación PCA. <br/>                                            |
   14       | 21.02.2022   | Escalamiento multidimensional. <br/>                                            |
-  
+  15       | 23.02.2022   | PCA Robusto y extensiones PCA. <br/>                                            |
+
   
 # Material adicional (scripts)
 <div id='id-labs'/>
