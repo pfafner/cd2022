@@ -36,10 +36,10 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   09       | 02.02.2022   | Distribuciones Continuas. Distribuciones multivariadas. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Material sobre v.a. continuas y resúmenes de distribuciones. <br/> Lefebvre, sección 3.3, pp. 70–80.
   10       | 07.02.2022   | Análisis de Componentes Principales (PCA). <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Duda y Hart, sección 10.13.1, pp. 568-.
   11       | 09.02.2022   | PCA vs. Teorema Espectral y descomposición SVD. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} [Aula 11 notas](aulas/Aula11_notas.pdf){:target="_blank"} | Hastie, Tibshirani, Friedman, sección 14.5.
-  12       | 14.02.2022   | Proyección PCA. Ejemplos. <br/> [Aula 12 notas](aulas/Aula12_notas.pdf){:target="_blank"} | 
-  13       | 16.02.2022   | Interpretación PCA. <br/>                                            |
-  14       | 21.02.2022   | Escalamiento multidimensional. <br/>                                            |
-  15       | 23.02.2022   | PCA Robusto y extensiones PCA. <br/>                                            |
+  12       | 14.02.2022   | Proyección PCA. Ejemplos. <br/> [Aula 11 notas](aulas/Aula12_notas.pdf){:target="_blank"} | 
+  13       | 16.02.2022   | Interpretación PCA. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} |
+  14       | 21.02.2022   | Escalamiento multidimensional. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |
+  15       | 23.02.2022   | PCA Robusto y extensiones PCA. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} |
   L2       | 27.02.2022   |                                                                     |  **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Fecha de entrega: Sábado 12 de marzo.**
 
 
