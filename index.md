@@ -34,13 +34,14 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   07       | 31.01.2022   | Esperanza condicional. Covarianza y correlación. Entropía. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | 
   08       | 02.02.2022   | Distribuciones Discretas. Resúmenes para distribuciones continuas. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Lefevbre, sección 3.3.
   09       | 02.02.2022   | Distribuciones Continuas. Distribuciones multivariadas. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Material sobre v.a. continuas y resúmenes de distribuciones. <br/> Lefebvre, sección 3.3, pp. 70–80.
-  L2       | 07.02.2022   |                                                                     | 
   10       | 07.02.2022   | Análisis de Componentes Principales (PCA). <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Duda y Hart, sección 10.13.1, pp. 568-.
   11       | 09.02.2022   | PCA vs. Teorema Espectral y descomposición SVD. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} [Aula 11 notas](aulas/Aula11_notas.pdf){:target="_blank"} | Hastie, Tibshirani, Friedman, sección 14.5.
   12       | 14.02.2022   | Proyección PCA. Ejemplos. <br/> [Aula 12 notas](aulas/Aula12_notas.pdf){:target="_blank"} | 
   13       | 16.02.2022   | Interpretación PCA. <br/>                                            |
   14       | 21.02.2022   | Escalamiento multidimensional. <br/>                                            |
   15       | 23.02.2022   | PCA Robusto y extensiones PCA. <br/>                                            |
+  L2       | 27.02.2022   |                                                                     |  **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Fecha de entrega: Sábado 12 de marzo.**
+
 
   
 # Material adicional (scripts)
