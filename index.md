@@ -41,6 +41,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   14       | 21.02.2022   | Escalamiento multidimensional. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |
   15       | 23.02.2022   | PCA Robusto y extensiones PCA. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} |
   L2       | 27.02.2022   |                                                                     |  **[Lista de ejercicios 2](listas/lista02.pdf){:target="_blank"}** <br/> [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Fecha de entrega: Sábado 12 de marzo.**
+  16       | 02.03.2022   | Kernel PCA. Ejemplos de transformaciones no-lineales. <br/> |
 
 
   
