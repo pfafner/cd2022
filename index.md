@@ -56,7 +56,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   02       | 14.02.2022   | Lectura archivo csv. Exploración de datos. Estandarización. Descomposición SVD. Análisis de componentes principales. | [pca.ipynb](code/pca.ipynb){:target="_blank"} <br/> [deport.csv](code/deport.csv){:target="_blank"}
   03       |              | Ejemplo de escalamiento multidimensional.                           | 
   04       | 07.03.2022   | Ejemplos de ICA.                                                    | [ica_examples.ipynb](code/ICA_examples.ipynb){:target="_blank"} <br/> [horse.jpg](code/horse.jpg){:target="_blank"} [morro.jpg](code/morro.jpg){:target="_blank"} [plane.jpg](code/plane.jpg){:target="_blank"} [race.jpg](code/race.jpg){:target="_blank"}
-  05       | 09.03.2022   | Ejemplo de NNMF.                                                    | 
+  05       | 09.03.2022   | Ejemplo de NNMF.                                                    | [nnmf.ipynb](code/nnmf.ipynb){:target="_blank"}
   
 
 
