@@ -44,7 +44,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   16       | 02.03.2022   | Kernel PCA. Ejemplos de transformaciones no-lineales. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |
   17       | 07.03.2022   | ICA (Análisis de componentes independientes). NNMF. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |
   18       | 09.03.2022   | Métodos Locales I: Isomap, t-SNE, LLE, SOM. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Más ejemplos de visualizaciones con SOM
-  <br/> (Minisom)[https://github.com/JustGlowing/minisom/tree/master/examples]{:target="_blank"}
+  <br/> [Minisom](https://github.com/JustGlowing/minisom/tree/master/examples){:target="_blank"}
   19       | 14.03.2022   | Métodos Locales II: Spectral Embedding, Autoencoders, Prob. PCA, Projection-Pursuit. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Software para visualización de datos. Contiene una implementación de projection pursuit. <br/> [http://ggobi.org/](http://ggobi.org/){:target="_blank"}
    
   
