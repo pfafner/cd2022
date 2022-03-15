@@ -45,7 +45,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   17       | 07.03.2022   | ICA (Análisis de componentes independientes). NNMF. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |
   18       | 09.03.2022   | Métodos Locales I: Isomap, t-SNE, LLE, SOM. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Más ejemplos de visualizaciones con SOM
   <br/> (Minisom)[https://github.com/JustGlowing/minisom/tree/master/examples]{:target="_blank"}
-  19       | 14.03.2022   | Métodos Locales II: Spectral Embedding, Autoencoders, Prob. PCA, Projection-Pursuit. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | GGobi es un software para visualización de datos. Contiene una implementación de projection pursuit. <br/> [http://ggobi.org/](http://ggobi.org/){:target="_blank"} 
+  19       | 14.03.2022   | Métodos Locales II: Spectral Embedding, Autoencoders, Prob. PCA, Projection-Pursuit. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Software para visualización de datos. Contiene una implementación de projection pursuit. <br/> [http://ggobi.org/](http://ggobi.org/){:target="_blank"}
    
   
 # Material adicional (scripts)
@@ -59,6 +59,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   03       |              | Ejemplo de escalamiento multidimensional.                           | 
   04       | 07.03.2022   | Ejemplos de ICA.                                                    | [ica_examples.ipynb](code/ICA_examples.ipynb){:target="_blank"} <br/> [horse.jpg](code/horse.jpg){:target="_blank"} [morro.jpg](code/morro.jpg){:target="_blank"} [plane.jpg](code/plane.jpg){:target="_blank"} [race.jpg](code/race.jpg){:target="_blank"}
   05       | 09.03.2022   | Ejemplo de NNMF.                                                    | [nnmf.ipynb](code/nnmf.ipynb){:target="_blank"}
+  06       | 14.03.2022   | Ejemplos de *Manifold Learning*.                                    | [manifold.ipynb](code/manifold.ipynb){:target="_blank"}
   
 
 
