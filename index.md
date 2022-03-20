@@ -54,13 +54,11 @@ Análisis de datos de EcoBici.
 Recursos:
 Sitio web oficial de EcoBici [https://www.ecobici.cdmx.gob.mx/](https://www.ecobici.cdmx.gob.mx/){:target="_blank"}
 Datos abiertos [https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data](https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data){:target="_blank"}
-Sitio web oficial de EcoBici [https://www.ecobici.cdmx.gob.mx/](https://www.ecobici.cdmx.gob.mx/){:target="_blank"}
 
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  01       | 07.02.2022   | Ejemplo de exploración de datos.                                    | [iris.ipynb](code/iris.ipynb){:target="_blank"}
-  P1       | 16.03.2022   | Primer proyecto <br/> [Proyecto 1](proyecto/proyecto1.pdf){:target="_blank"} | 
+  P1       | 16.03.2022   | Primer proyecto <br/> [Proyecto 1](proyecto/proyecto1.pdf){:target="_blank"} |  
    
   
 # Material adicional (scripts)
