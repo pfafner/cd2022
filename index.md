@@ -53,7 +53,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 Análisis de datos de EcoBici.
 Recursos:
 Sitio web oficial de EcoBici [https://www.ecobici.cdmx.gob.mx/](https://www.ecobici.cdmx.gob.mx/){:target="_blank"}
-Sitio web oficial de EcoBici [https://www.ecobici.cdmx.gob.mx/](https://www.ecobici.cdmx.gob.mx/){:target="_blank"}
+Datos abiertos [https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data](https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data){:target="_blank"}
 Sitio web oficial de EcoBici [https://www.ecobici.cdmx.gob.mx/](https://www.ecobici.cdmx.gob.mx/){:target="_blank"}
 
 
