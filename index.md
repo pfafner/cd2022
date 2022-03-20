@@ -58,8 +58,10 @@ Datos abiertos [https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
-  P1       | 16.03.2022   | Primer proyecto <br/> [Proyecto 1](proyecto/proyecto1.pdf){:target="_blank"} |  
-   
+  P1       | 16.03.2022   | Primer proyecto <br/> [Proyecto 1](proyecto/proyecto1.pdf){:target="_blank"} | Coordenadas de estaciones <br/> [stations.json](proyecto/stations.json){:target="_blank"} [stations.csv](proyecto/stations.csv){:target="_blank"}  
+  .        | 18.04.2022   | Presentaciones                                                      | 
+  .        | 20.04.2022   | Presentaciones                                                      | 
+  .        | 21.04.2022   | Entrega del reporte, código y presentación.                         | 
   
 # Material adicional (scripts)
 <div id='id-labs'/>
@@ -73,7 +75,7 @@ Datos abiertos [https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open
   04       | 07.03.2022   | Ejemplos de ICA.                                                    | [ica_examples.ipynb](code/ICA_examples.ipynb){:target="_blank"} <br/> [horse.jpg](code/horse.jpg){:target="_blank"} [morro.jpg](code/morro.jpg){:target="_blank"} [plane.jpg](code/plane.jpg){:target="_blank"} [race.jpg](code/race.jpg){:target="_blank"}
   05       | 09.03.2022   | Ejemplo de NNMF.                                                    | [nnmf.ipynb](code/nnmf.ipynb){:target="_blank"}
   06       | 14.03.2022   | Ejemplos de *Manifold Learning*.                                    | [manifold.ipynb](code/manifold.ipynb){:target="_blank"}
-  07       | 14.03.2022   | Ejemplo de SOM.                                                     | [democracy_index.csv](code/democracy_index.csv){:target="_blank"} [democracy_index_som.ipynb](code/democracy_index_som.ipynb){:target="_blank"}
+  07       | 16.03.2022   | Ejemplo de SOM.                                                     | [democracy_index.csv](code/democracy_index.csv){:target="_blank"} [democracy_index_som.ipynb](code/democracy_index_som.ipynb){:target="_blank"}
   
 
 
