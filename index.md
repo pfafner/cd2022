@@ -45,6 +45,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   17       | 07.03.2022   | ICA (Análisis de componentes independientes). NNMF. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |
   18       | 09.03.2022   | Métodos Locales I: Isomap, t-SNE, LLE, SOM. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Más ejemplos de visualizaciones con SOM [Minisom](https://github.com/JustGlowing/minisom/tree/master/examples){:target="_blank"}
   19       | 14.03.2022   | Métodos Locales II: Spectral Embedding, Autoencoders, Prob. PCA, Projection-Pursuit. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Software para visualización de datos. Contiene una implementación de projection pursuit. <br/> [http://ggobi.org/](http://ggobi.org/){:target="_blank"}
+  20       | 16.03.2022   | Estimación empírica de distribuciones. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
   
   
 # Material adicional (scripts)
