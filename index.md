@@ -47,7 +47,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   19       | 14.03.2022   | Métodos Locales II: Spectral Embedding, Autoencoders, Prob. PCA, Projection-Pursuit. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Software para visualización de datos. Contiene una implementación de projection pursuit. <br/> [http://ggobi.org/](http://ggobi.org/){:target="_blank"}
   20       | 16.03.2022   | Estimación empírica de distribuciones. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
   L3       | 19.03.2022   |                                                                     |  **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} <br/> **Fecha de entrega: Domingo 03 de abril.**
-  21       | 21.03.2022   | Técnicas de visualización. <br/> | 
+  21       | 21.03.2022   | Técnicas de visualización. <br/> | [visualisation.ipynb](code/visualisation.ipynb){:target="_blank"}
+  
   
   
 # Material adicional (scripts)
@@ -60,9 +61,10 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   02       | 14.02.2022   | Lectura archivo csv. Exploración de datos. Estandarización. Descomposición SVD. Análisis de componentes principales. | [pca.ipynb](code/pca.ipynb){:target="_blank"} <br/> [deport.csv](code/deport.csv){:target="_blank"}
   03       |              | Ejemplo de escalamiento multidimensional.                           | 
   04       | 07.03.2022   | Ejemplos de ICA.                                                    | [ica_examples.ipynb](code/ICA_examples.ipynb){:target="_blank"} <br/> [horse.jpg](code/horse.jpg){:target="_blank"} [morro.jpg](code/morro.jpg){:target="_blank"} [plane.jpg](code/plane.jpg){:target="_blank"} [race.jpg](code/race.jpg){:target="_blank"}
-  05       | 09.03.2022   | Ejemplo de NNMF.                                                    | [nnmf.ipynb](code/nnmf.ipynb){:target="_blank"}
-  06       | 14.03.2022   | Ejemplos de *Manifold Learning*.                                    | [manifold.ipynb](code/manifold.ipynb){:target="_blank"}
-  07       | 16.03.2022   | Ejemplo de SOM.                                                     | [democracy_index.csv](code/democracy_index.csv){:target="_blank"} [democracy_index_som.ipynb](code/democracy_index_som.ipynb){:target="_blank"}
+  05       | 07.03.2022   | Ejemplo de NNMF.                                                    | [nnmf.ipynb](code/nnmf.ipynb){:target="_blank"}
+  06       | 09.03.2022   | Ejemplos de *Manifold Learning*.                                    | [manifold.ipynb](code/manifold.ipynb){:target="_blank"}
+  07       | 14.03.2022   | Ejemplo de SOM.                                                     | [democracy_index.csv](code/democracy_index.csv){:target="_blank"} [democracy_index_som.ipynb](code/democracy_index_som.ipynb){:target="_blank"}
+  08       | 16.03.2022   | Ejemplos de distribución empírica por kernel.                       | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} [2D-kernel-density.ipynb](code/2D-kernel-density.ipynb){:target="_blank"}
 
 
 
