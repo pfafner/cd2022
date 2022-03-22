@@ -47,6 +47,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   19       | 14.03.2022   | Métodos Locales II: Spectral Embedding, Autoencoders, Prob. PCA, Projection-Pursuit. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Software para visualización de datos. Contiene una implementación de projection pursuit. <br/> [http://ggobi.org/](http://ggobi.org/){:target="_blank"}
   20       | 16.03.2022   | Estimación empírica de distribuciones. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
   L3       | 19.03.2022   |                                                                     |  **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} <br/> **Fecha de entrega: Domingo 03 de abril.**
+  21       | 21.03.2022   | Técnicas de visualización. <br/> | 
   
   
 # Material adicional (scripts)
