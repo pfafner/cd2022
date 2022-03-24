@@ -48,7 +48,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   20       | 16.03.2022   | Estimación empírica de distribuciones. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
   L3       | 19.03.2022   |                                                                     |  **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} <br/> **Fecha de entrega: Domingo 03 de abril.**
   21       | 21.03.2022   | Técnicas de visualización. <br/>                                    | [visualisation.ipynb](code/visualisation.ipynb){:target="_blank"}
-  22       | 23.03.2022   | Imputación de datos. <br/>                                          | [imputation.ipynb](code/imputation.ipynb){:target="_blank"} [hpi-data-2016.csv](code/hpi-data-2016.csv){:target="_blank"}
+  22       | 23.03.2022   | Imputación de datos. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | [imputation.ipynb](code/imputation.ipynb){:target="_blank"} [hpi-data-2016.csv](code/hpi-data-2016.csv){:target="_blank"}
   
   
 # Material adicional (scripts)
