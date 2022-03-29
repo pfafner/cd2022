@@ -49,6 +49,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L3       | 19.03.2022   |                                                                     |  **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} <br/> **Fecha de entrega: Domingo 03 de abril.**
   21       | 21.03.2022   | Técnicas de visualización. <br/>                                    | [visualisation.ipynb](code/visualisation.ipynb){:target="_blank"}
   22       | 23.03.2022   | Imputación de datos. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | [imputation.ipynb](code/imputation.ipynb){:target="_blank"} [hpi-data-2016.csv](code/hpi-data-2016.csv){:target="_blank"} 
+  23       | 28.03.2022   | Agrupamiento jerárquico. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | [.ipynb](code/imputation.ipynb){:target="_blank"} [hpi-data-2016.csv](code/hpi-data-2016.csv){:target="_blank"} 
   
   
 # Material adicional (scripts)
