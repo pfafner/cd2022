@@ -49,7 +49,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   L3       | 19.03.2022   |                                                                     |  **[Lista de ejercicios 3](listas/lista03.pdf){:target="_blank"}** <br/> [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} <br/> **Fecha de entrega: Domingo 03 de abril.**
   21       | 21.03.2022   | Técnicas de visualización. <br/>                                    | [visualisation.ipynb](code/visualisation.ipynb){:target="_blank"}
   22       | 23.03.2022   | Imputación de datos. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | [imputation.ipynb](code/imputation.ipynb){:target="_blank"} [hpi-data-2016.csv](code/hpi-data-2016.csv){:target="_blank"} 
-  23       | 28.03.2022   | Agrupamiento jerárquico. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | [.ipynb](code/imputation.ipynb){:target="_blank"} [hpi-data-2016.csv](code/hpi-data-2016.csv){:target="_blank"} 
+  23       | 28.03.2022   | Agrupamiento jerárquico. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | 
   
   
 # Material adicional (scripts)
@@ -65,9 +65,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   05       | 07.03.2022   | Ejemplo de NNMF.                                                    | [nnmf.ipynb](code/nnmf.ipynb){:target="_blank"}
   06       | 09.03.2022   | Ejemplos de *Manifold Learning*.                                    | [manifold.ipynb](code/manifold.ipynb){:target="_blank"}
   07       | 14.03.2022   | Ejemplo de SOM.                                                     | [democracy_index.csv](code/democracy_index.csv){:target="_blank"} [democracy_index_som.ipynb](code/democracy_index_som.ipynb){:target="_blank"}
-  08       | 16.03.2022   | Ejemplos de distribución empírica por kernel.                       | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} [2D-kernel-density.ipynb](code/2D-kernel-density.ipynb){:target="_blank"}
-  09       | 16.03.2022   | Técnicas de visualización.                                          | [.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} 
-
+  08       | 16.03.2022   | Ejemplos de distribución empírica por kernel.                       | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb)
 
 
 # Primer Proyecto
