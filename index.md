@@ -66,6 +66,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   06       | 09.03.2022   | Ejemplos de *Manifold Learning*.                                    | [manifold.ipynb](code/manifold.ipynb){:target="_blank"}
   07       | 14.03.2022   | Ejemplo de SOM.                                                     | [democracy_index.csv](code/democracy_index.csv){:target="_blank"} [democracy_index_som.ipynb](code/democracy_index_som.ipynb){:target="_blank"}
   08       | 16.03.2022   | Ejemplos de distribución empírica por kernel.                       | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} [2D-kernel-density.ipynb](code/2D-kernel-density.ipynb){:target="_blank"}
+  09       | 16.03.2022   | Técnicas de visualización.                                          | [.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} 
 
 
 
