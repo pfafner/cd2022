@@ -51,6 +51,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   22       | 23.03.2022   | Imputación de datos. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | [imputation.ipynb](code/imputation.ipynb){:target="_blank"} [hpi-data-2016.csv](code/hpi-data-2016.csv){:target="_blank"} 
   23       | 28.03.2022   | Agrupamiento jerárquico. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | 
   24       | 04.04.2022   | Ejemplos de agrupamiento jerárquico. <br/> | [hierarchical.ipynb](code/hierarchical.ipynb){:target="_blank"}
+  25       | 06.04.2022   | K-medias. Diagrama de Voronoi. Variantes de K-medias.               | 
   26       | 18.04.2022   | Presentación de proyectos. <br/>                                    | 
   
   
