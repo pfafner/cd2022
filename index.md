@@ -93,12 +93,12 @@ Datos abiertos [https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open
 
   **No.**  | **Fecha**    | **Expositor**                                                          | **Tópicos**
   -------- | ------------ | ---------------------------------------------------------------------- | -------------------------------------
-  01       | 18.04.2022   | Juan Lorthiois     <br/> [](seminario1/){:target="_blank"}  | Comparación de la demanda anterior/posterior de pandemia Covid 19. Perfilado o caracterización de un usuario típico. Determinación geográfica de estaciones con mayor demanda. Clusterización y diferenciación t-SNE por variable.
-  02       | 18.04.2022   | José Ramos         <br/> [Presentación](seminario1/presentacion_JoseRamos.pdf){:target="_blank"}  | Modelo de decisión de velocidad media de los usuarios. Determinación de variables de mayor impacto en la predicción de la velocidad media de recorrido.  Clasificación *Naive Bayes* de velocidad del usuario: lento/rápido.
-  03       | 18.04.2022   | Rodrigo Morales    <br/> [Presentación](seminario1/presentacion_Rodrigo.pdf){:target="_blank"}  | Modelos para localización óptima de nuevas estaciones. Uso de fuentes diversas para predicción: INEGI, población flotante, geolocalización, nivel socioeconómico. Comparación de criterios de localización óptima.
-  04       | 20.04.2022   | Pablo Noack        <br/> [Presentación](seminario1/presentacion_Pablo.pdf){:target="_blank"}  | Distribuciones de tiempos de recorrido y desplazamientos. Relación geoespacial contra distribuciones de frecuencia de demanda. Análisis de la matriz de frecuencias. Clusterización t-SNE por frecuencia.
-  05       | 20.04.2022   | José López         <br/> [Presentación](seminario1/presentacion_JoseLopez.pdf){:target="_blank"}  | Estadísticas comparativas antes y después de Covid-19. Segmentación de uso por edad y género. Pronósticos de demanda máxima y mínima de bicicletas. *Forecasting* de demanda con series de tiempo.
-  06       | 20.04.2022   | Javier Mejía       <br/> [Presentación](seminario1/presentacion_Javier.pptx){:target="_blank"}  | Análisis de la encuesta sobre uso Ecobici. Diseño de visualizaciones intuitivas. Comparación de rutas y tiempos promedio por *weekday/weekend*. Mapas de calor zonas de mayor demanda. Matriz de frecuencias.
+  01       | 18.04.2022   | Elder     <br/> [](seminario1/){:target="_blank"}  | 
+  02       | 18.04.2022   | Karina     <br/> [](seminario1/){:target="_blank"}  | 
+  03       | 18.04.2022   | Lucha     <br/> [](seminario1/){:target="_blank"}  | 
+  04       | 20.04.2022   |      <br/> [](seminario1/){:target="_blank"}  | 
+  05       | 20.04.2022   | Juan Lorthiois     <br/> [](seminario1/){:target="_blank"}  | 
+  06       | 20.04.2022   | Juan Lorthiois     <br/> [](seminario1/){:target="_blank"}  | 
   
 
 # Material sobre Python (textos, videos)
