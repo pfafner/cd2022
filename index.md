@@ -53,6 +53,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   24       | 04.04.2022   | Ejemplos de agrupamiento jerárquico. <br/> | [hierarchical.ipynb](code/hierarchical.ipynb){:target="_blank"}
   25       | 06.04.2022   | K-medias. Diagrama de Voronoi. Variantes de K-medias.               | 
   26       | 18.04.2022   | Presentación de proyectos. <br/>                                    | 
+  27       | 20.04.2022   | Presentación de proyectos. <br/>                                    | 
   
   
 # Material adicional (scripts)
