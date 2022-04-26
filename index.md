@@ -98,9 +98,9 @@ Datos abiertos [https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open
   01       | 18.04.2022   | Elder     <br/> [](seminario1/){:target="_blank"}  | 
   02       | 18.04.2022   | Karina     <br/> [](seminario1/){:target="_blank"}  | 
   03       | 18.04.2022   | Lucha     <br/> [](seminario1/){:target="_blank"}  | 
-  04       | 20.04.2022   |      <br/> [](seminario1/){:target="_blank"}  | 
-  05       | 20.04.2022   |      <br/> [](seminario1/){:target="_blank"}  | 
-  06       | 20.04.2022   |      <br/> [](seminario1/){:target="_blank"}  | 
+  04       | 20.04.2022   | Carlos     <br/> [](seminario1/){:target="_blank"}  | 
+  05       | 20.04.2022   | Leonel     <br/> [](seminario1/){:target="_blank"}  | 
+  06       | 20.04.2022   | Rafael  <br/> [](seminario1/){:target="_blank"}  | 
   
 
 # Material sobre Python (textos, videos)
