@@ -54,6 +54,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   25       | 06.04.2022   | K-medias. Diagrama de Voronoi. Variantes de K-medias. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | 
   26       | 18.04.2022   | Presentación de proyectos. <br/>                                    | 
   27       | 20.04.2022   | Presentación de proyectos. <br/>                                    | 
+  28       | 25.04.2022   | Funciòn de verosimilitud. Mezclas gaussianas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | 
   
   
 # Material adicional (scripts)
