@@ -73,6 +73,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   08       | 16.03.2022   | Ejemplos de distribución empírica por kernel.                       | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb)
   09       | 06.04.2022   | Ejemplos de K-means. Clustering con imágenes.                       | [k-means.ipynb](code/k-means.ipynb) <br/> [horse.jpg](code/horse.jpg) [tree.jpg](code/tree.jpg)
   10       | 25.04.2022   | Ejemplos mezclas gaussianas: *Gaussian mixture models*.             | [gmm.ipynb](code/gmm.ipynb)
+  11       | 27.04.2022   | Ejemplos de agrupamiento espectral.                                 | [spectral1.ipynb](code/spectral1.ipynb) [spectral2.ipynb](code/spectral2.ipynb)
 
 
 # Primer Proyecto
