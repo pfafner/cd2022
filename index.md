@@ -73,10 +73,11 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   05       | 07.03.2022   | Ejemplo de NNMF.                                                    | [nnmf.ipynb](code/nnmf.ipynb){:target="_blank"}
   06       | 09.03.2022   | Ejemplos de *Manifold Learning*.                                    | [manifold.ipynb](code/manifold.ipynb){:target="_blank"}
   07       | 14.03.2022   | Ejemplo de SOM.                                                     | [democracy_index.csv](code/democracy_index.csv){:target="_blank"} [democracy_index_som.ipynb](code/democracy_index_som.ipynb){:target="_blank"}
-  08       | 16.03.2022   | Ejemplos de distribución empírica por kernel.                       | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb)
-  09       | 06.04.2022   | Ejemplos de K-means. Clustering con imágenes.                       | [k-means.ipynb](code/k-means.ipynb) <br/> [horse.jpg](code/horse.jpg) [tree.jpg](code/tree.jpg)
-  10       | 25.04.2022   | Ejemplos mezclas gaussianas: *Gaussian mixture models*.             | [gmm.ipynb](code/gmm.ipynb)
-  11       | 27.04.2022   | Ejemplos de agrupamiento espectral.                                 | [spectral1.ipynb](code/spectral1.ipynb) [spectral2.ipynb](code/spectral2.ipynb)
+  08       | 16.03.2022   | Ejemplos de distribución empírica por kernel.                       | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"}
+  09       | 06.04.2022   | Ejemplos de K-means. Clustering con imágenes.                       | [k-means.ipynb](code/k-means.ipynb) <br/> [horse.jpg](code/horse.jpg){:target="_blank"} [tree.jpg](code/tree.jpg){:target="_blank"}
+  10       | 25.04.2022   | Ejemplos mezclas gaussianas: *Gaussian mixture models*.             | [gmm.ipynb](code/gmm.ipynb){:target="_blank"}
+  11       | 27.04.2022   | Ejemplos de agrupamiento espectral.                                 | [spectral1.ipynb](code/spectral1.ipynb){:target="_blank"} [spectral2.ipynb](code/spectral2.ipynb){:target="_blank"}
+  12       | 05.02.2022   | Ejemplos de *mean-shift*, DBSCAN, OPTICS y BIRCH.                   | [density-based.ipynb](code/density-based.ipynb){:target="_blank"}
 
 
 # Primer Proyecto
