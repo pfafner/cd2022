@@ -56,7 +56,9 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   27       | 20.04.2022   | Presentación de proyectos. <br/>                                    | 
   28       | 25.04.2022   | Función de verosimilitud. Modelos de mezclas gaussianas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | 
   29       | 27.04.2022   | Agrupamiento espectral. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} |
-  
+  30       | 02.05.2022   | Otros métodos de agrupamiento: *mean-shift*, DBSCAN, OPTICS, BIRCH. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} |
+
+
 # Material adicional (scripts)
 <div id='id-labs'/>
 
