@@ -78,7 +78,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   10       | 25.04.2022   | Ejemplos mezclas gaussianas: *Gaussian mixture models*.             | [gmm.ipynb](code/gmm.ipynb){:target="_blank"}
   11       | 27.04.2022   | Ejemplos de agrupamiento espectral.                                 | [spectral1.ipynb](code/spectral1.ipynb){:target="_blank"} [spectral2.ipynb](code/spectral2.ipynb){:target="_blank"}
   12       | 05.02.2022   | Ejemplos de *mean-shift*, DBSCAN, OPTICS y BIRCH.                   | [density-based.ipynb](code/density-based.ipynb){:target="_blank"}
-
+  12       | 05.02.2022   | Ejemplos de *mean-shift*, DBSCAN, OPTICS y BIRCH.                   | [density-based.ipynb](code/density-based.ipynb){:target="_blank"}
+  13       | 05.02.2022   | Método de las *silhouettes*.                                        | [silhouette.ipynb](code/silhouette.ipynb){:target="_blank"}
 
 # Primer Proyecto
 <div id='id-labs'/>
