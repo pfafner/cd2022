@@ -82,7 +82,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   13       | 05.02.2022   | Método de las *silhouettes*.                                        | [silhouette.ipynb](code/silhouette.ipynb){:target="_blank"}
 
 # Primer Proyecto
-<div id='id-labs'/>
+<div id='id-prj1'/>
 
 Análisis de datos de EcoBici. <br/>
 Recursos: <br/>
@@ -109,7 +109,21 @@ Datos abiertos [https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open
   04       | 20.04.2022   | Carlos     <br/> [](seminario1/){:target="_blank"}  | 
   05       | 20.04.2022   | Leonel     <br/> [](seminario1/){:target="_blank"}  | 
   06       | 20.04.2022   | Rafael  <br/> [](seminario1/){:target="_blank"}  | 
-  
+
+
+# Segundo Proyecto
+<div id='id-prj2'/>
+
+Análisis de datos + Agrupamiento + Clasificación + Regresión. Tema libre, previo visto bueno. <br/>
+
+  **No.**  | **Fecha**    | **Tópicos**                                                         | **Material**
+  -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
+  .        | 13.05.2022   | Última fecha para definir tema.                                     | 
+  .        | 30.05.2022   | Presentaciones                                                      | 
+  .        | 01.06.2022   | Presentaciones                                                      | 
+  .        | 03.06.2022   | Entrega del reporte, código y presentación.                         | 
+
+
 
 # Material sobre Python (textos, videos)
 <div id='id-python'/>
