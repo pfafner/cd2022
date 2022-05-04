@@ -58,6 +58,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   29       | 27.04.2022   | Agrupamiento espectral. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} |
   30       | 02.05.2022   | Otros métodos de agrupamiento: *mean-shift*, DBSCAN, OPTICS, BIRCH. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} |
   31       | 02.05.2022   | Métricas para agrupamiento. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} |
+  L4       | 03.05.2022   |                                                                     |  **[Lista de ejercicios 4](listas/lista04.pdf){:target="_blank"}** <br/> [heptatlon.csv](listas/heptatlon.csv){:target="_blank"} <br/> **Fecha de entrega: Viernes 13 de mayo.**
 
 
 # Material adicional (scripts)
