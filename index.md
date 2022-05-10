@@ -60,6 +60,8 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   31       | 02.05.2022   | Métricas para agrupamiento. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} |
   L4       | 03.05.2022   |                                                                     |  **[Lista de ejercicios 4](listas/lista04.pdf){:target="_blank"}** <br/> [heptatlon.csv](listas/heptatlon.csv){:target="_blank"} <br/> **Fecha de entrega: Viernes 13 de mayo.**
   32       | 04.05.2022   | Modelación predictiva. *KNN*, K vecinos más cercanos. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} |
+  33       | 09.05.2022   | El clasificador bayesiano óptimo. <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} |
+
 
 # Material adicional (scripts)
 <div id='id-labs'/>
