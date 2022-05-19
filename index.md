@@ -64,6 +64,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   34       | 11.05.2022   | El clasificador bayesiano óptimo II. *Naive* Bayes. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} [Aula 30 notas](aulas/Aula30_notas.pdf){:target="_blank"} |
   35       | 15.05.2022   | Análisis discriminante. <br/> <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} |
   36       | 16.05.2022   | Regresión logística. <br/> <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} |
+  37       | 18.05.2022   | El perceptrón. Máquinas de vectores de soporte (SVM). <br/> [Aula 33](aulas/Aula33.pdf){:target="_blank"} |
 
 
 # Material adicional (scripts)
