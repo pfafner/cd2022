@@ -66,6 +66,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
   36       | 16.05.2022   | Regresión logística. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} |
   37       | 18.05.2022   | El perceptrón. Máquinas de vectores de soporte (SVM). <br/> [Aula 33](aulas/Aula33.pdf){:target="_blank"} | [Perceptron Demo](https://lecture-demo.ira.uka.de/neural-network-demo/?preset=Rosenblatt%20Perceptron){:target="_blank"} <br/> [Tensorflow Playground](https://playground.tensorflow.org/){:target="_blank"} 
   38       | 25.05.2022   | Árboles de decisión. <br/>  |
+  39       | 27.05.2022   | Métodos *ensemble*: bagging, boosting, stacking. *Random Forests*. <br/>  |
 
 
 # Material adicional (scripts)
